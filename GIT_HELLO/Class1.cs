@@ -11,7 +11,5 @@ namespace GIT_HELLO
         // this is class1
         // this is class1
 
-        // this is class1ccc
-
     }
 }
