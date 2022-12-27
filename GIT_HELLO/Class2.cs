@@ -1,2 +1,2 @@
 
-// this is class2vvv
+// this is class2
