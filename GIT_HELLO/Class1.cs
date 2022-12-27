@@ -9,5 +9,6 @@ namespace GIT_HELLO
     class Class1
     {
         // this is class1
+        // this is class1
     }
 }
